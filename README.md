@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Padma Shree</h1>
 <h3 align="center">💻Passionate about coding & problem-solving</h3>
 
-- 🌱 I’m currently learning **Problem-Solving & DSA in Java**
+- 🌱 I’m currently learning **Java Development**
 
 - 📚 Love exploring **New Technologies**
 
-- 🎨 Exploring **Frontend Development**
+- 💡 Interested in  **Problem-solving**
 
 - 📫 How to reach me [padmashree.arunprasath@gmail.com](padmashree.arunprasath@gmail.com)
 
